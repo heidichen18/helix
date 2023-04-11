@@ -11,7 +11,9 @@ main .hero-container {
 main .hero {
   position: relative;
   padding: 32px;
-  min-height: 300px;
+  height: auto;
+  min-height: 30em;
+  /*min-height: 500px;*/
   text-align: center;
   color: rgb(255, 255, 255);
 }
